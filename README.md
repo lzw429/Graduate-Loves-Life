@@ -42,7 +42,7 @@ Note that a part of these question descriptions may not be the fact since I have
 
 [哈工大博士生跳楼事件真实情况是怎样的？](https://www.zhihu.com/question/25415063)
 
-[如何看待佛罗里达大学 ECE 博士生陈慧祥自杀？](https://www.zhihu.com/question/329605591/
+[如何看待佛罗里达大学 ECE 博士生陈慧祥自杀？](https://www.zhihu.com/question/329605591/)
 
 [如何看待南京大学化学化工学院博士生死亡及家属反应？](https://www.zhihu.com/question/54190072)
 
