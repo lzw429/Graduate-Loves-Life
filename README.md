@@ -1,4 +1,4 @@
-# Love-Your-Life
+# Graduate Loves Life
 
 Note that a part of these question descriptions may not be the fact since I have no ability to verify them all.
 
