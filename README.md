@@ -51,3 +51,7 @@ Note that a part of these question descriptions may not be the fact since I have
 [如何看待校招季浙大博士，华工硕士跳楼？](https://www.zhihu.com/question/299016962/)
 
 [中科大的博士为什么自杀？](https://zhuanlan.zhihu.com/p/65911759)
+
+---
+
+I don't ever want to maintain this list, unless the reality doesn't allow it.
