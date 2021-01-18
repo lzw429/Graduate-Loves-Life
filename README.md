@@ -6,7 +6,7 @@
 
 [哈工大大二学生在自习室死亡，有哪些信息值得关注？](https://www.zhihu.com/question/431952602)
 
-## Quit is much better than jumping
+## Withdrawal is much better than jumping
 
 [如何看待 2020 年 10 月 13 日凌晨一名大连理工大学研究生在实验室自杀身亡？](https://www.zhihu.com/question/425411521/)
 
