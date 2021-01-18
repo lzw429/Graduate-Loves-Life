@@ -1,10 +1,14 @@
 # Love-Your-Life
 
+Note that a part of these question descriptions may not be the fact since I have no ability to verify them all.
+
 ## Sudden accident
 
 [如何看待北航一学生图书馆猝死？（吓得我都不敢熬夜了）？](https://www.zhihu.com/question/430046490)
 
 [哈工大大二学生在自习室死亡，有哪些信息值得关注？](https://www.zhihu.com/question/431952602)
+
+[如何看待华南理工大学材料系博士生胡坤猝死事件？](https://www.zhihu.com/question/310301027)
 
 ## Withdrawal is much better than jumping
 
@@ -15,3 +19,35 @@
 [如何看待1月16号晚22点10分左右东南大学丁家桥校区综合楼发生的跳楼事件？](https://www.zhihu.com/question/439723782)
 
 [如何看待西北工业大学长安校区12月5号星天苑G座一男生跳楼？](https://www.zhihu.com/question/433412573)
+
+[怎么看浙江大学心理学女博士跳楼自杀？](https://www.zhihu.com/question/57387457)
+
+[如何看待中科大博士刘春杨返乡过年失联？](https://www.zhihu.com/question/311990924/)
+
+[如何看待华中科技大学研究生跳楼事件？](https://www.zhihu.com/question/344313439)
+
+[如何看待浙大某女博士生跳楼身亡（其母亲声称被其博导性骚扰）？如何避免此类惨剧的发生？](https://www.zhihu.com/question/414969196)
+
+[如何看待西北工业大学2017年6月10日晚一博士生坠楼身亡？](https://www.zhihu.com/question/60977461/answer/183589760)
+
+[如何看待37岁女博士带5个月女儿跳楼自杀，什么原因导致的？](https://www.zhihu.com/question/391681514/answer/1212284874)
+
+[如何评价西安交大的博导周筠「逼死」博士生杨宝德？](https://www.zhihu.com/question/265236935/)
+
+[如何看待浙大博士跳江？](https://www.zhihu.com/question/298233319/)
+
+[怎样看待西安交大在读博士杨宝德溺亡事件？](https://www.zhihu.com/question/265317496)
+
+[博士弟弟自杀了](https://zhuanlan.zhihu.com/p/124173850)
+
+[哈工大博士生跳楼事件真实情况是怎样的？](https://www.zhihu.com/question/25415063)
+
+[如何看待佛罗里达大学 ECE 博士生陈慧祥自杀？](https://www.zhihu.com/question/329605591/
+
+[如何看待南京大学化学化工学院博士生死亡及家属反应？](https://www.zhihu.com/question/54190072)
+
+[如何看待同济大学医学院研究生陆经纬疑似因与导师陆琰君不合跳楼自尽？](https://www.zhihu.com/question/308045928/)
+
+[如何看待校招季浙大博士，华工硕士跳楼？](https://www.zhihu.com/question/299016962/)
+
+[中科大的博士为什么自杀？](https://zhuanlan.zhihu.com/p/65911759)
