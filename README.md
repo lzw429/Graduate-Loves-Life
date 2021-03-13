@@ -2,6 +2,10 @@
 
 Note that a part of these question descriptions may not be the fact since I have no ability to verify them all.
 
+## Family Education
+
+[如何看待济南大学女生自杀，留下遗书称「自杀仅仅是因为我爸爸」？家庭矛盾导致的心理问题应如何疏导？](https://www.zhihu.com/question/448002553)
+
 ## Sudden accident
 
 [如何看待北航一学生图书馆猝死？（吓得我都不敢熬夜了）？](https://www.zhihu.com/question/430046490)
