@@ -1,12 +1,12 @@
 # Graduate Loves Life
 
-Note that a part of these question descriptions may not be the fact since I have no ability to verify them all.
+请注意，以下问题中的描述可能不完全是事实，列表的维护者无法做到完全验证这些描述的真实性。
 
-## Family Education
+## 家庭教育
 
 [如何看待济南大学女生自杀，留下遗书称「自杀仅仅是因为我爸爸」？家庭矛盾导致的心理问题应如何疏导？](https://www.zhihu.com/question/448002553)
 
-## Sudden accident
+## 突发悲剧
 
 [如何看待北航一学生图书馆猝死？（吓得我都不敢熬夜了）？](https://www.zhihu.com/question/430046490)
 
@@ -14,7 +14,7 @@ Note that a part of these question descriptions may not be the fact since I have
 
 [如何看待华南理工大学材料系博士生胡坤猝死事件？](https://www.zhihu.com/question/310301027)
 
-## Withdrawal is much better than jumping
+## 退学不失为一种选择
 
 [如何看待 2020 年 10 月 13 日凌晨一名大连理工大学研究生在实验室自杀身亡？](https://www.zhihu.com/question/425411521/)
 
@@ -58,4 +58,4 @@ Note that a part of these question descriptions may not be the fact since I have
 
 ---
 
-I don't ever want to maintain this list, unless the reality doesn't allow it.
+我从来不想维护本列表，除非现实不允许。
