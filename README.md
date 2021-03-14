@@ -14,7 +14,11 @@
 
 [如何看待华南理工大学材料系博士生胡坤猝死事件？](https://www.zhihu.com/question/310301027)
 
-## 退学不失为一种选择
+## 不要选择离开！
+
+[谁来解释下南京大学19幢着火是什么情况？](https://www.zhihu.com/question/433407634/answer/1621177869)
+
+[怎样看待南京大学女生跳楼事件？](https://www.zhihu.com/question/422142838/answer/1779081231)
 
 [如何看待 2020 年 10 月 13 日凌晨一名大连理工大学研究生在实验室自杀身亡？](https://www.zhihu.com/question/425411521/)
 
