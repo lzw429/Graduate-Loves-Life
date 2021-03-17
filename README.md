@@ -16,9 +16,9 @@
 
 ## 不要选择离开！
 
-[谁来解释下南京大学19幢着火是什么情况？](https://www.zhihu.com/question/433407634/answer/1621177869)
+[如何评价南京大学南园六舍研究生一年级学生跳楼事件？](https://www.zhihu.com/question/449341090)
 
-[怎样看待南京大学女生跳楼事件？](https://www.zhihu.com/question/422142838/answer/1779081231)
+[谁来解释下南京大学19幢着火是什么情况？](https://www.zhihu.com/question/433407634/answer/1621177869)
 
 [如何看待 2020 年 10 月 13 日凌晨一名大连理工大学研究生在实验室自杀身亡？](https://www.zhihu.com/question/425411521/)
 
@@ -27,6 +27,8 @@
 [如何看待1月16号晚22点10分左右东南大学丁家桥校区综合楼发生的跳楼事件？](https://www.zhihu.com/question/439723782)
 
 [如何看待西北工业大学长安校区12月5号星天苑G座一男生跳楼？](https://www.zhihu.com/question/433412573)
+
+[怎样看待南京大学女生跳楼事件？](https://www.zhihu.com/question/422142838/answer/1779081231)
 
 [怎么看浙江大学心理学女博士跳楼自杀？](https://www.zhihu.com/question/57387457)
 
