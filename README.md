@@ -28,6 +28,8 @@
 
 [10 月 24 日中南财经政法大学一名学生疑似自杀身亡，真实情况如何?](https://www.zhihu.com/question/427107892)
 
+[如何看待上海大学一大二学生于宿舍楼自杀？](https://www.zhihu.com/question/430515619/answer/1579269946)
+
 [如何看待1月16号晚22点10分左右东南大学丁家桥校区综合楼发生的跳楼事件？](https://www.zhihu.com/question/439723782)
 
 [如何看待西北工业大学长安校区12月5号星天苑G座一男生跳楼？](https://www.zhihu.com/question/433412573)
