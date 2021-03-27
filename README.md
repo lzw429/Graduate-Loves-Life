@@ -22,6 +22,8 @@
 
 [公安部门证实 3 月 24 日郑州财经学院一学生去世系持刀自杀，还有哪些信息值得关注？](https://www.zhihu.com/question/450900062)
 
+[同济大学嘉定校区 3 月 23 日疑似有学生跳楼，发生了什么？](https://www.zhihu.com/question/450821754/answers/updated)
+
 [如何评价南京大学南园六舍研究生一年级学生跳楼事件？](https://www.zhihu.com/question/449341090)
 
 [谁来解释下南京大学19幢着火是什么情况？](https://www.zhihu.com/question/433407634/answer/1621177869)
