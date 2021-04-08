@@ -20,6 +20,8 @@
 
 ## 不要选择离开！
 
+[如何看待南京大学处理系列学生跳楼事件的态度？](https://www.zhihu.com/question/450100451/answer/1823617982)
+
 [公安部门证实 3 月 24 日郑州财经学院一学生去世系持刀自杀，还有哪些信息值得关注？](https://www.zhihu.com/question/450900062)
 
 [同济大学嘉定校区 3 月 23 日疑似有学生跳楼，发生了什么？](https://www.zhihu.com/question/450821754/answers/updated)
